@@ -1,0 +1,10 @@
+{
+  "name": "ArkanoidJS",
+  "version": "0.0.0",
+  "description": "ArkanoidJS",
+  "main": "server.js",
+  "author": {
+    "name": "Stian",
+    "email": ""
+  }
+}
